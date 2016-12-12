@@ -1,6 +1,7 @@
 ## Intro
 
-This is a simple hello world app using express.
+This is a simple hello world app using express. It is listening at port 8002.
+The app is running on http://hello.shopshop.space
 
 ## Install
 
@@ -17,6 +18,8 @@ This is a simple hello world app using express.
 
 ## What I learned
 
-
+* var express = require('express');
+* app.get to match /
+* app.listen to any port
 
 
