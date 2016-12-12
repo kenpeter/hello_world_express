@@ -1,0 +1,60 @@
+(node:8232) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Warning: React.renderToString is deprecated. Please use ReactDOMServer.renderToString from require('react-dom/server') instead.
+Error: Parse error on line 3:
+...eact-app --><!-- {{}}, markup --><!-- 
+----------------------^
+Expecting 'ID', 'DATA', got 'CLOSE'
+    at Object.parseError (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:106:11)
+    at Object.parse (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:158:22)
+    at HandlebarsEnvironment.parse (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js:18:17)
+    at compileInput (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:411:19)
+    at ret (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:420:18)
+    at ExpressHandlebars._renderTemplate (/var/www/html/test/testme/react-tweets/node_modules/express-handlebars/lib/express-handlebars.js:310:12)
+    at ExpressHandlebars.<anonymous> (/var/www/html/test/testme/react-tweets/node_modules/express-handlebars/lib/express-handlebars.js:184:21)
+Error: Parse error on line 10:
+...ion/json --><!-- {{}} state--><!-- jav
+----------------------^
+Expecting 'ID', 'DATA', got 'CLOSE'
+    at Object.parseError (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:106:11)
+    at Object.parse (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:158:22)
+    at HandlebarsEnvironment.parse (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js:18:17)
+    at compileInput (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:411:19)
+    at ret (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:420:18)
+    at ExpressHandlebars._renderTemplate (/var/www/html/test/testme/react-tweets/node_modules/express-handlebars/lib/express-handlebars.js:310:12)
+    at ExpressHandlebars.<anonymous> (/var/www/html/test/testme/react-tweets/node_modules/express-handlebars/lib/express-handlebars.js:184:21)
+Error: Parse error on line 10:
+...ion/json --><!-- {{}} state--><!-- jav
+----------------------^
+Expecting 'ID', 'DATA', got 'CLOSE'
+    at Object.parseError (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:106:11)
+    at Object.parse (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:158:22)
+    at HandlebarsEnvironment.parse (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js:18:17)
+    at compileInput (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:411:19)
+    at ret (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:420:18)
+    at ExpressHandlebars._renderTemplate (/var/www/html/test/testme/react-tweets/node_modules/express-handlebars/lib/express-handlebars.js:310:12)
+    at ExpressHandlebars.<anonymous> (/var/www/html/test/testme/react-tweets/node_modules/express-handlebars/lib/express-handlebars.js:184:21)
+Error: Parse error on line 17:
+...  <body>    <!-- {{}} will escape html,
+----------------------^
+Expecting 'ID', 'DATA', got 'CLOSE'
+    at Object.parseError (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:106:11)
+    at Object.parse (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js:158:22)
+    at HandlebarsEnvironment.parse (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js:18:17)
+    at compileInput (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:411:19)
+    at ret (/var/www/html/test/testme/react-tweets/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js:420:18)
+    at ExpressHandlebars._renderTemplate (/var/www/html/test/testme/react-tweets/node_modules/express-handlebars/lib/express-handlebars.js:310:12)
+    at ExpressHandlebars.<anonymous> (/var/www/html/test/testme/react-tweets/node_modules/express-handlebars/lib/express-handlebars.js:184:21)
+(node:8918) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Warning: React.renderToString is deprecated. Please use ReactDOMServer.renderToString from require('react-dom/server') instead.
+(node:9089) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Warning: React.renderToString is deprecated. Please use ReactDOMServer.renderToString from require('react-dom/server') instead.
+(node:9205) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Warning: React.renderToString is deprecated. Please use ReactDOMServer.renderToString from require('react-dom/server') instead.
+(node:9653) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Warning: React.renderToString is deprecated. Please use ReactDOMServer.renderToString from require('react-dom/server') instead.
+(node:9955) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Warning: React.renderToString is deprecated. Please use ReactDOMServer.renderToString from require('react-dom/server') instead.
+(node:10191) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Warning: React.renderToString is deprecated. Please use ReactDOMServer.renderToString from require('react-dom/server') instead.
+(node:10263) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Warning: React.renderToString is deprecated. Please use ReactDOMServer.renderToString from require('react-dom/server') instead.

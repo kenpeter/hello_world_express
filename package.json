@@ -1,0 +1,21 @@
+{
+  "name": "hello_word_express",
+  "version": "1.0.0",
+  "main": "hello_word_express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kenpeter",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "forever": "^0.15.3"
+  },
+  "devDependencies": {},
+  "description": "hello world app with express",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/kenpeter/hello_word_express.git"
+  },
+  "homepage": "https://bitbucket.org/kenpeter/hello_word_express#readme"
+}
