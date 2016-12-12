@@ -22,4 +22,17 @@ The app is running on http://hello.shopshop.space
 * app.get to match /
 * app.listen to any port
 
+* How to configure nginx with a simple app
+```
 
+server {
+  listen 80;
+  server_name hello.shopshop.space;
+
+  location / {
+    proxy_pass http://0.0.0.0:8002;
+    include /etc/nginx/proxy_params;
+  }
+}
+
+```
